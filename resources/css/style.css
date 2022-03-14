@@ -1,0 +1,42 @@
+:root{
+    --main-font:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+
+body{
+    /*background-color: black;*/
+    text-align: center;
+    font-family: var(--main-font);
+}
+.title{
+    color: white;
+    font-size: 50px;
+}
+.download{
+    color: aquamarine;
+    font-size: 16px;
+    display: block;
+}
+.subtitle{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.comment{
+    font-size: 21px;
+    color: gray;
+}
+.img-camp{
+    display: block;
+    margin: 0 auto;
+}
+.img-mobicon{
+    padding-top: 20px;
+}
+.reg{
+    color: gray;
+    text-align: right;
+    font-size: 21px;
+    padding-right: 10px;
+}
